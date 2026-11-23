@@ -2,7 +2,7 @@
 
 WINGFORM_NEXT is a Windows x64 tool for designing aircraft wings. Edit a planform, set airfoils and section positions, adjust height and bending, inspect the result in 3D, and export models for downstream use.
 
-![WINGFORM_NEXT planform editor](images/WINGFORM_NEXT_plan.png)
+![WINGFORM_NEXT planform editor](WINGFORM_NEXT_plan.png)
 
 ## Download
 
